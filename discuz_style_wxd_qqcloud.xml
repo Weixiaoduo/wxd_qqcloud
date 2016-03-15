@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <root>
 	<item id="Title"><![CDATA[Discuz! Style]]></item>
-	<item id="Version"><![CDATA[X.1.5,X2.5,X3,X3.1,X3.2]]></item>
+	<item id="Version"><![CDATA[X3,X3.1,X3.2]]></item>
 	<item id="Time"><![CDATA[2014-08-20 17:34]]></item>
 	<item id="From"><![CDATA[Þ±Ïþ¶äÍøÂç¹¤×÷ÊÒ (http://www.Weixiaoduo.com/)]]></item>
 	<item id="Data">
@@ -60,6 +60,6 @@
 			<item id="contentseparate"><![CDATA[#C2D5E3]]></item>
 			<item id="inputborder"><![CDATA[#E0E0E0]]></item>
 		</item>
-		<item id="version"><![CDATA[X.1.5,X2.5,X3,X3.1,X3.2]]></item>
+		<item id="version"><![CDATA[X3,X3.1,X3.2]]></item>
 	</item>
 </root>
